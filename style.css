@@ -54,3 +54,40 @@ h1 {
 #text-weight {
     font-weight: 200;
 }
+
+.box-er-kaaj {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5%;
+    border-radius: 5px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+.nicher-box {
+    width: 75%;
+
+    border-radius: 15px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+
+.new-container {
+    display: flow-root;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+#gray-color {
+    color: gray;
+}
+
+.last-bg {
+    background-color: rgb(39, 38, 38);
+}
+
+#last-font {
+    color: rgba(172, 169, 169, 0.688);
+    font-size: large;
+    font-weight: 400;
+}
